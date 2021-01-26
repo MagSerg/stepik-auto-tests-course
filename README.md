@@ -1,3 +1,3 @@
 # stepik-auto-tests-course
 HomeWork
-Пытаемся разобраться)
+Пытаемся разобраться)Туточки)
